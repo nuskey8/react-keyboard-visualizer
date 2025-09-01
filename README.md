@@ -18,7 +18,7 @@ A keyboard visualizer for React. [Demo](https://nuskey8.github.io/react-keyboard
 ## Usage
 
 ```tsx
-import KeyboardVisualizer from 'react-keyboard-visualizer'
+import { KeyboardVisualizer } from 'react-keyboard-visualizer'
 
 function App() {
     return (
