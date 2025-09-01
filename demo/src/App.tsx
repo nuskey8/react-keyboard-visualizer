@@ -1,4 +1,4 @@
-import KeyboardVisualizer from '../../src/KeyboardVisualizer.tsx'
+import { KeyboardVisualizer } from 'react-keyboard-visualizer'
 import './App.css'
 
 function App() {
